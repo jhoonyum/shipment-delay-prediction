@@ -1,0 +1,11 @@
+# The final notebook's saved outputs were produced with Python 3.12 and Matplotlib 3.9.1.
+# Lower bounds reflect APIs the notebook uses (Styler.map, OneHotEncoder(sparse_output=...)).
+numpy
+pandas>=2.1
+scipy
+scikit-learn>=1.2
+xgboost
+matplotlib
+seaborn
+geopandas
+jupyter

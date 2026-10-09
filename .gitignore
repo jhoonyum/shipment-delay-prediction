@@ -1,0 +1,10 @@
+# Data is not distributed with this repository
+*.csv
+data/*
+!data/README.md
+
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
